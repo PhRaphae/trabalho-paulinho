@@ -1,0 +1,203 @@
+.divMenu{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    top:0px;
+    left:0px;
+    position: absolute;
+    margin: auto;
+}
+.logoFia{
+    height: 100px;
+    position: absolute;
+    
+}
+.tituloMenu{
+    top:35px;
+    position: absolute;
+    font-weight: bold;
+    font-size: 40px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+
+}
+.imgdta{
+    position: absolute;
+    float: right;
+    height: 100px;
+    right:0%;
+}
+.classgeral{
+    padding: 120PX;
+    width: 500px;
+    height: 100px;
+    top: 00px;
+    position: absolute;
+    border-collapse: collapse;
+    left: -50px;
+    
+
+}
+.etapa1{
+    padding: 20px;
+    width: 450px;
+    height:550px;
+    top: 1150px;
+    left: 100px;
+    position: absolute;
+    border-collapse: collapse;
+   
+
+}
+.etapa2{
+    padding: 20px;
+    width: 450px;
+    height:550px;
+    top:1600px;
+    left: 100px;
+    position: absolute;
+    border-collapse: collapse;
+
+}
+.etapa3{
+    padding: 20px;
+    width: 450px;
+    height:550px;
+    top: 2050px;
+    left:100px;
+    position: absolute;
+    border-collapse: collapse;
+    
+}
+
+.equip{
+    width:70px;
+    height:40px;
+
+}
+.bandeira{
+    width:30px;
+    height:20px;
+}
+.sistema{
+    padding: 20PX;
+    width: 300px;
+    height: auto;
+    left: 800px;
+    top: 600px;
+    position: absolute;
+    border-collapse: collapse;
+}
+.const{
+
+    padding: auto;
+    width: 850px;
+    height:750px;
+    top: 200px;
+    left:700px;
+    position: absolute;
+    border-collapse: collapse;
+}
+.table1{
+    width:500px;
+    height:400px;
+    left: 100px;
+
+}
+.bancs{
+    width:25px;
+    height:15px;
+    
+}
+.tableconst1{
+    padding: auto;
+    width: 400px;
+    height:50px;
+    top: 1025px;
+    left: 100px;
+    position: absolute;
+    border-collapse: collapse;
+
+}
+.tableconst2{
+    padding: auto;
+    width: 400px;
+    height:50px;
+    top: 1475px;
+    left:100px;
+    position: absolute;
+    border-collapse: collapse;
+}
+.tableconst3{
+    padding: auto;
+    width: 400px;
+    height:50px;
+    top: 1925px;
+    left:100px;
+    position: absolute;
+    border-collapse: collapse;
+}
+.equipes{
+
+    padding: auto;
+    width: 300px;
+    height:50px;
+    top: 2300px;
+    left: -400px ;
+    position: absolute;
+    border-collapse: collapse;
+}
+.bandeira1{
+    width:70px;
+    height:50px;
+    float: left;
+}
+.equipes1{
+
+    padding: auto;
+    width: 400px;
+    height:50px;
+    top: 2300px;
+    left: 50 ;
+    position: absolute;
+    border-collapse: collapse;
+}
+.const1{
+    padding: auto;
+    width: 400px;
+    height:50px;
+    top: 200px;
+    left: 620px;
+    position: absolute;
+    border-collapse: collapse;
+}
+.equipes2{
+
+    padding: auto;
+    width: 400px;
+    height:50px;
+    top: 2300px;
+    left: 50 ;
+    position: absolute;
+    border-collapse: collapse;
+}
+.const2{
+    padding: auto;
+    width: 400px;
+    height:50px;
+    top: 200px;
+    left:210px;
+    position: absolute;
+    border-collapse: collapse;
+}
+.tabela1{
+    background-color: rgba(160, 214, 210, 0.822);
+}
+.teste{
+    background-color: rgba(8, 134, 124, 0.822);
+}
+.linha{
+    background-color: white;
+}
